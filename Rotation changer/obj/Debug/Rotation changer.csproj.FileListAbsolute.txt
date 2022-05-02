@@ -1,0 +1,10 @@
+D:\Projecten\Rotation Changer\Rotation changer\obj\Debug\Rotation changer.csprojAssemblyReference.cache
+D:\Projecten\Rotation Changer\Rotation changer\obj\Debug\Rotation_changer.Properties.Resources.resources
+D:\Projecten\Rotation Changer\Rotation changer\obj\Debug\Rotation changer.csproj.GenerateResource.cache
+D:\Projecten\Rotation Changer\Rotation changer\obj\Debug\Rotation changer.csproj.CoreCompileInputs.cache
+D:\Projecten\Rotation Changer\Rotation changer\obj\Debug\Rotation_changer.RotationChanger.resources
+D:\Projecten\Rotation Changer\Rotation changer\bin\Debug\Rotate Screen.exe.config
+D:\Projecten\Rotation Changer\Rotation changer\bin\Debug\Rotate Screen.exe
+D:\Projecten\Rotation Changer\Rotation changer\bin\Debug\Rotate Screen.pdb
+D:\Projecten\Rotation Changer\Rotation changer\obj\Debug\Rotate Screen.exe
+D:\Projecten\Rotation Changer\Rotation changer\obj\Debug\Rotate Screen.pdb
